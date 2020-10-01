@@ -7,7 +7,7 @@ In this project, I have performed unsupervised and supervised learnig to answer 
 
 2. When the company sends out a mailout offer, can we predict the responding rate?
 
-The details of my analysis can be found in blog post ([Medium](https://medium.com/@wenzhili523/airbnb-market-in-seattle-a-closer-look-from-the-perspectives-of-host-and-visitor-89b179cde17))
+The details of my analysis can be found in blog post ([Medium](https://medium.com/@wenzhili523/boosting-sales-through-customer-segmentation-analysis-knowing-the-market-better-8c7feebd3479))
 
 # Required Libaries
 This project was written by Python, using Jupyter Notebook, including common packages: 
